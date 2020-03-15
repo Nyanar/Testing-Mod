@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "utils:block/lynite_ore" }
+    }
+}
