@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[25,)"
+[[mods]] #mandatory
+modId="utils"
+version="1.0"
+displayName="Utils"
+description='''
+Utils.
+'''
